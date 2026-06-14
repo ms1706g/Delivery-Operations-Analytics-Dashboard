@@ -1,4 +1,4 @@
- Delivery Operations Analytics Dashboard
+## Delivery Operations Analytics Dashboard
 
 A portfolio-ready delivery analytics project modeled on last-mile operations at
 food delivery, quick-commerce, and e-commerce logistics companies. It combines
@@ -139,6 +139,15 @@ erDiagram
 See [docs/kpi_documentation.md](docs/kpi_documentation.md) for business rules and
 [docs/data_dictionary.md](docs/data_dictionary.md) for field-level definitions.
 
+<img width="1502" height="739" alt="Screenshot 2026-06-14 201222" src="https://github.com/user-attachments/assets/ab6d3ab9-f8d2-477d-821a-d073a25beb84" />
+<img width="1511" height="727" alt="Screenshot 2026-06-14 201239" src="https://github.com/user-attachments/assets/a3d98d09-6e7e-4899-abed-d5fc3902af87" />
+<img width="1460" height="696" alt="Screenshot 2026-06-14 201258" src="https://github.com/user-attachments/assets/b996925d-86ef-4953-b72c-4cb1352b1ef5" />
+<img width="1493" height="726" alt="Screenshot 2026-06-14 201316" src="https://github.com/user-attachments/assets/370db51d-f102-413a-919b-883917f72d4f" />
+
+
+
+
+
 ## SQL Analysis
 
 The query pack includes:
@@ -172,6 +181,13 @@ Generated dashboard mockups:
 ![Rider Analytics](powerbi/mockups/02_rider_analytics.svg)
 ![1P vs 3P](powerbi/mockups/03_1p_vs_3p.svg)
 ![Cost Control](powerbi/mockups/04_cost_control.svg)
+
+<img width="1168" height="461" alt="Screenshot 2026-06-14 201330" src="https://github.com/user-attachments/assets/460f02f1-d646-497c-83d9-e1e644f22652" />
+<img width="1484" height="708" alt="Screenshot 2026-06-14 201344" src="https://github.com/user-attachments/assets/16fb85de-2810-44d1-896d-c345b2a95062" />
+<img width="1487" height="673" alt="Screenshot 2026-06-14 201357" src="https://github.com/user-attachments/assets/2e5ce276-c828-4917-803f-b6ef539c9a43" />
+
+
+
 
 ## Key Insights
 
